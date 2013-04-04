@@ -10,7 +10,7 @@ $message = $now.': GCM PUSH Notifiy from '.$name;
 
 $header = array(
   'Content-Type: application/x-www-form-urlencoded;charset=UTF-8',
-  'Authorization: key=AIzaSyDwtcp-wwdU46ENVjXDez5il8MUSBZOCs4',
+  'Authorization: key=AIzaSyBbGqw_k_E45duhh-RftCFWqA4tOPFwSpM'
 );
 $post_list = array(
  'registration_id' => $registration_id,
