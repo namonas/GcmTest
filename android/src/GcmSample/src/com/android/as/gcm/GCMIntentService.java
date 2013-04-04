@@ -17,7 +17,7 @@ public class GCMIntentService extends GCMBaseIntentService {
 	
 	private static final String TAG = "GCMSample::Service";
 
-	public static final String SENDER_ID = "903650199715";
+	public static final String SENDER_ID = "724098549143";
 	
 	public GCMIntentService() {
 		super(SENDER_ID);

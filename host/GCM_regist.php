@@ -2,7 +2,7 @@
 
 $url = 'https://android.googleapis.com/gcm/send';
 
-$registration_id = 'APA91bFLoeqkQLUwQDgzldRSWMFRekj9WbHZjU2ahBRdHJX6b928isGbgaq5WxOMP5tyitzC9Vw01ru1NIgZFNeK9mxAonk7hK_B17BShSRGp8sbOo1Atwnm78H2C1NwdC7fWvJCeXQIaaXnNoizX4VEqz7D5S9SAw';
+$registration_id = 'APA91bFmV6AwtKtFRKk1EeqQiIJlqQfaZH0O5WUyjPujvhjLpZoUFHSgf1d1dcg7nTslOqjXUCZEfx2qpLTfYINXdVlkVIvUl1KBO04kEiZ4QF1fszr2VkLFfQk3dYPitgSUKrsmyt1fW4J89JXzyiGMW9qgE5lavg';
 
 $now = date("Y/m/d H:i:s");
 $name = gethostname();
